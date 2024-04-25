@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const img = document.createElement("img");
       img.src = product.image;
-      Ï;
+
       const title = document.createElement("h3");
       title.textContent = product.title;
 
